@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1725354492914,
+    "startPoint": "uttam nagar",
+    "endPoint": "saraswati vihar",
+    "selectedRoute": "Route 2",
+    "date": "2024-09-03T09:08:12.914Z"
+  },
+  {
+    "id": 1725355226588,
+    "startPoint": "District Centre Najafgarh Road",
+    "endPoint": "Keshopur Depot",
+    "selectedRoute": "761",
+    "date": "2024-09-03T09:20:26.588Z"
+  },
+  {
+    "id": 1725355240865,
+    "startPoint": "District Centre Outer Ring Road",
+    "endPoint": "Manohar Nagar",
+    "selectedRoute": "761",
+    "date": "2024-09-03T09:20:40.865Z"
+  },
+  {
+    "id": 1725355710712,
+    "startPoint": "Vikas Puri Xing",
+    "endPoint": "Sunder Apartment",
+    "selectedRoute": "761",
+    "date": "2024-09-03T09:28:30.713Z"
+  }
+]
